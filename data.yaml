@@ -1,0 +1,7 @@
+
+train: "C:\\Users\\KIIT\\Desktop\\Sign Language Prediction\\Dataset\\images\\train"
+val: "C:\\Users\\KIIT\\Desktop\\Sign Language Prediction\\Dataset\\images\\val"
+
+nc: 7
+names: ['HELLO', 'THANKS', 'YES', 'I LOVE U', 'OK', 'NAMASTE', 'NO']
+

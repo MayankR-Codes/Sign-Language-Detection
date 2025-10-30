@@ -1,0 +1,49 @@
+# Python virtual environment
+myenv/
+venv/
+env/
+
+# YOLOv8 runs and model outputs
+runs/
+
+# Dataset folders
+Dataset/
+dataset/
+data/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary files
+tempCodeRunnerFile.py
+tempCodeRunnerFile.python
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# VS Code settings
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Local development settings
+.env
+.env.local
+
+# Model weights and large files
+*.pt
+*.pth
+*.onnx
+*.mlmodel
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Requirements file
+requirements.txt
